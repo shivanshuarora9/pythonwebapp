@@ -10,6 +10,6 @@ Requirements:
   Python 2.7
   Google App engine
   
-Libraries Uses:
+Libraries Used:
   Jinja Library for templates
   
